@@ -19,7 +19,6 @@ class NewsCubit extends Cubit<NewsStates>{
     BottomNavigationBarItem(icon: Icon(Icons.business),label: "Business"),
     BottomNavigationBarItem(icon: Icon(Icons.sports_soccer),label: "Sports"),
     BottomNavigationBarItem(icon: Icon(Icons.science),label: "Science"),
-    BottomNavigationBarItem(icon: Icon(Icons.settings),label: "Settings"),
 
   ];
   List<Widget> Screens =[
